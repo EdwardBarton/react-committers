@@ -1,0 +1,17 @@
+{
+  "name": "react-avatars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edward Barton",
+  "license": "ISC",
+  "dependencies": {
+    "backbone": "^1.3.3",
+    "bootstrap": "^4.1.3",
+    "handlebars": "^4.0.12",
+    "jquery": "^3.3.1"
+  }
+}
